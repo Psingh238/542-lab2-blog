@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "What is Generative AI?"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Psingh238/542-lab2-blog
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
