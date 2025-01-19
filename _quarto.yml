@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "What is Generative AI?"
+  title: "Blog"
   navbar:
     right:
       - about.qmd
@@ -11,7 +11,7 @@ website:
         href: https://github.com/Psingh238/542-lab2-blog
 format:
   html:
-    theme: cosmo
+    theme: quartz
     css: styles.css
 
 
